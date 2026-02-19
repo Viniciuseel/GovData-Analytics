@@ -1,0 +1,514 @@
+,id,nome,Estado,Partido,urlFoto
+0,204379,Acácio Favacho,AP,MDB,https://www.camara.leg.br/internet/deputado/bandep/204379.jpg
+1,220714,Adail Filho,AM,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220714.jpg
+2,221328,Adilson Barroso,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/221328.jpg
+3,204560,Adolfo Viana,BA,PSDB,https://www.camara.leg.br/internet/deputado/bandep/204560.jpg
+4,204528,Adriana Ventura,SP,NOVO,https://www.camara.leg.br/internet/deputado/bandep/204528.jpg
+5,121948,Adriano do Baldy,GO,PP,https://www.camara.leg.br/internet/deputado/bandep/121948.jpg
+6,74646,Aécio Neves,MG,PSDB,https://www.camara.leg.br/internet/deputado/bandep/74646.jpg
+7,136811,Afonso Hamm,RS,PP,https://www.camara.leg.br/internet/deputado/bandep/136811.jpg
+8,178835,Afonso Motta,RS,PDT,https://www.camara.leg.br/internet/deputado/bandep/178835.jpg
+9,160527,Aguinaldo Ribeiro,PB,PP,https://www.camara.leg.br/internet/deputado/bandep/160527.jpg
+10,204495,Airton Faleiro,PA,PT,https://www.camara.leg.br/internet/deputado/bandep/204495.jpg
+11,204549,AJ Albuquerque,CE,PP,https://www.camara.leg.br/internet/deputado/bandep/204549.jpg
+12,73579,Alberto Fraga,DF,PL,https://www.camara.leg.br/internet/deputado/bandep/73579.jpg
+13,220538,Albuquerque,RR,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220538.jpg
+14,160559,Alceu Moreira,RS,MDB,https://www.camara.leg.br/internet/deputado/bandep/160559.jpg
+15,204501,Alencar Santana,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/204501.jpg
+16,178972,Alex Manente,SP,CIDADANIA,https://www.camara.leg.br/internet/deputado/bandep/178972.jpg
+17,204571,Alex Santana,BA,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204571.jpg
+18,220542,Alexandre Guimarães,TO,MDB,https://www.camara.leg.br/internet/deputado/bandep/220542.jpg
+19,220554,Alexandre Lindenmeyer,RS,PT,https://www.camara.leg.br/internet/deputado/bandep/220554.jpg
+20,221148,Alfredinho,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/221148.jpg
+21,220576,Alfredo Gaspar,AL,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220576.jpg
+22,74057,Alice Portugal,BA,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/74057.jpg
+23,178927,Aliel Machado,PR,PV,https://www.camara.leg.br/internet/deputado/bandep/178927.jpg
+24,226708,Allan Garcês,MA,PP,https://www.camara.leg.br/internet/deputado/bandep/226708.jpg
+25,178937,Altineu Côrtes,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/178937.jpg
+26,178881,Aluisio Mendes,MA,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/178881.jpg
+27,220707,Amanda Gentil,MA,PP,https://www.camara.leg.br/internet/deputado/bandep/220707.jpg
+28,204356,Amaro Neto,ES,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204356.jpg
+29,220715,Amom Mandel,AM,CIDADANIA,https://www.camara.leg.br/internet/deputado/bandep/220715.jpg
+30,107970,Ana Paula Leão,MG,PP,https://www.camara.leg.br/internet/deputado/bandep/107970.jpg
+31,220556,Ana Paula Lima,SC,PT,https://www.camara.leg.br/internet/deputado/bandep/220556.jpg
+32,220632,Ana Pimentel,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/220632.jpg
+33,178831,André Abdon,AP,PP,https://www.camara.leg.br/internet/deputado/bandep/178831.jpg
+34,220657,André Fernandes,CE,PL,https://www.camara.leg.br/internet/deputado/bandep/220657.jpg
+35,204423,André Ferreira,PE,PL,https://www.camara.leg.br/internet/deputado/bandep/204423.jpg
+36,133439,André Figueiredo,CE,PDT,https://www.camara.leg.br/internet/deputado/bandep/133439.jpg
+37,204515,André Janones,MG,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/204515.jpg
+38,220676,Andreia Siqueira,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/220676.jpg
+39,123756,Antônia Lúcia,AC,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/123756.jpg
+40,220544,Antonio Andrade,TO,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220544.jpg
+41,160553,Antonio Brito,BA,PSD,https://www.camara.leg.br/internet/deputado/bandep/160553.jpg
+42,220638,Antonio Carlos Rodrigues,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/220638.jpg
+43,220675,Antônio Doido,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/220675.jpg
+44,220549,Any Ortiz,RS,CIDADANIA,https://www.camara.leg.br/internet/deputado/bandep/220549.jpg
+45,73433,Arlindo Chinaglia,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/73433.jpg
+46,141391,Arnaldo Jardim,SP,CIDADANIA,https://www.camara.leg.br/internet/deputado/bandep/141391.jpg
+47,160541,Arthur Lira,AL,PP,https://www.camara.leg.br/internet/deputado/bandep/160541.jpg
+48,160600,Arthur Oliveira Maia,BA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/160600.jpg
+49,74090,Átila Lins,AM,PSD,https://www.camara.leg.br/internet/deputado/bandep/74090.jpg
+50,123086,Átila Lira,PI,PP,https://www.camara.leg.br/internet/deputado/bandep/123086.jpg
+51,160665,Augusto Coutinho,PE,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/160665.jpg
+52,160512,Aureo Ribeiro,RJ,SOLIDARIEDADE,https://www.camara.leg.br/internet/deputado/bandep/160512.jpg
+53,69871,Bacelar,BA,PV,https://www.camara.leg.br/internet/deputado/bandep/69871.jpg
+54,178975,Baleia Rossi,SP,MDB,https://www.camara.leg.br/internet/deputado/bandep/178975.jpg
+55,220605,Bandeira de Mello,RJ,PSB,https://www.camara.leg.br/internet/deputado/bandep/220605.jpg
+56,220612,Bebeto,RJ,PP,https://www.camara.leg.br/internet/deputado/bandep/220612.jpg
+57,73701,Benedita da Silva,RJ,PT,https://www.camara.leg.br/internet/deputado/bandep/73701.jpg
+58,109429,Benes Leocádio,RN,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/109429.jpg
+59,204358,Beto Pereira,MS,PSDB,https://www.camara.leg.br/internet/deputado/bandep/204358.jpg
+60,220683,Beto Richa,PR,PSDB,https://www.camara.leg.br/internet/deputado/bandep/220683.jpg
+61,204374,Bia Kicis,DF,PL,https://www.camara.leg.br/internet/deputado/bandep/204374.jpg
+62,204388,Bibo Nunes,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/204388.jpg
+63,160538,Bohn Gass,RS,PT,https://www.camara.leg.br/internet/deputado/bandep/160538.jpg
+64,210989,Bruno Farias,MG,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/210989.jpg
+65,220635,Bruno Ganem,SP,PODE,https://www.camara.leg.br/internet/deputado/bandep/220635.jpg
+66,220574,Cabo Gilberto Silva,PB,PL,https://www.camara.leg.br/internet/deputado/bandep/220574.jpg
+67,143942,Caio Vianna,RJ,PSD,https://www.camara.leg.br/internet/deputado/bandep/143942.jpg
+68,220548,Camila Jara,MS,PT,https://www.camara.leg.br/internet/deputado/bandep/220548.jpg
+69,204572,Capitão Alberto Neto,AM,PL,https://www.camara.leg.br/internet/deputado/bandep/204572.jpg
+70,220690,Capitão Alden,BA,PL,https://www.camara.leg.br/internet/deputado/bandep/220690.jpg
+71,178829,Capitão Augusto,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/178829.jpg
+72,213762,Carla Dickson,RN,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/213762.jpg
+73,204361,Carlos Chiodini,SC,MDB,https://www.camara.leg.br/internet/deputado/bandep/204361.jpg
+74,178962,Carlos Gomes,RS,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/178962.jpg
+75,178993,Carlos Henrique Gaguim,TO,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/178993.jpg
+76,204460,Carlos Jordy,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/204460.jpg
+77,74262,Carlos Sampaio,SP,PSD,https://www.camara.leg.br/internet/deputado/bandep/74262.jpg
+78,204426,Carlos Veras,PE,PT,https://www.camara.leg.br/internet/deputado/bandep/204426.jpg
+79,141398,Carlos Zarattini,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/141398.jpg
+80,220704,Carol Dartora,PR,PT,https://www.camara.leg.br/internet/deputado/bandep/220704.jpg
+81,204369,Caroline de Toni,SC,PL,https://www.camara.leg.br/internet/deputado/bandep/204369.jpg
+82,220699,Castro Neto,PI,PSD,https://www.camara.leg.br/internet/deputado/bandep/220699.jpg
+83,206018,Célia Xakriabá,MG,PSOL,https://www.camara.leg.br/internet/deputado/bandep/206018.jpg
+84,178876,Célio Silveira,GO,MDB,https://www.camara.leg.br/internet/deputado/bandep/178876.jpg
+85,204488,Célio Studart,CE,PSD,https://www.camara.leg.br/internet/deputado/bandep/204488.jpg
+86,73441,Celso Russomanno,SP,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/73441.jpg
+87,204496,Celso Sabino,PA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204496.jpg
+88,204504,Cezinha de Madureira,SP,PSD,https://www.camara.leg.br/internet/deputado/bandep/204504.jpg
+89,205476,Charles Fernandes,BA,PSD,https://www.camara.leg.br/internet/deputado/bandep/205476.jpg
+90,74171,Chico Alencar,RJ,PSOL,https://www.camara.leg.br/internet/deputado/bandep/74171.jpg
+91,204462,Chris Tonietto,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/204462.jpg
+92,220665,Clarissa Tércio,PE,PP,https://www.camara.leg.br/internet/deputado/bandep/220665.jpg
+93,74537,Claudio Cajado,BA,PP,https://www.camara.leg.br/internet/deputado/bandep/74537.jpg
+94,141408,Cleber Verde,MA,MDB,https://www.camara.leg.br/internet/deputado/bandep/141408.jpg
+95,88256,Clodoaldo Magalhães,PE,PV,https://www.camara.leg.br/internet/deputado/bandep/88256.jpg
+96,98148,Cobalchini,SC,MDB,https://www.camara.leg.br/internet/deputado/bandep/98148.jpg
+97,220594,Coronel Assis,MT,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220594.jpg
+98,204378,Coronel Chrisóstomo,RO,PL,https://www.camara.leg.br/internet/deputado/bandep/204378.jpg
+99,220595,Coronel Fernanda,MT,PL,https://www.camara.leg.br/internet/deputado/bandep/220595.jpg
+100,220666,Coronel Meira,PE,PL,https://www.camara.leg.br/internet/deputado/bandep/220666.jpg
+101,220590,Coronel Ulysses,AC,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220590.jpg
+102,178963,Covatti Filho,RS,PP,https://www.camara.leg.br/internet/deputado/bandep/178963.jpg
+103,220608,Cristiane Lopes,RO,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220608.jpg
+104,234840,Cristiano Furlan,AP,REDE,https://www.camara.leg.br/internet/deputado/bandep/234840.jpg
+105,204355,Da Vitoria,ES,PP,https://www.camara.leg.br/internet/deputado/bandep/204355.jpg
+106,141411,Dagoberto Nogueira,MS,PSDB,https://www.camara.leg.br/internet/deputado/bandep/141411.jpg
+107,220555,Daiana Santos,RS,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/220555.jpg
+108,220692,Dal Barreto,BA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220692.jpg
+109,74467,Damião Feliciano,PB,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/74467.jpg
+110,220629,Dandara,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/220629.jpg
+111,220603,Dani Cunha,RJ,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220603.jpg
+112,220571,Daniel Agrobom,GO,PL,https://www.camara.leg.br/internet/deputado/bandep/220571.jpg
+113,74060,Daniel Almeida,BA,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/74060.jpg
+114,220582,Daniel Barbosa,AL,PP,https://www.camara.leg.br/internet/deputado/bandep/220582.jpg
+115,204367,Daniel Freitas,SC,PL,https://www.camara.leg.br/internet/deputado/bandep/204367.jpg
+116,204409,Daniel Trzeciak,RS,PSDB,https://www.camara.leg.br/internet/deputado/bandep/204409.jpg
+117,204459,Daniela do Waguinho,RJ,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204459.jpg
+118,220557,Daniela Reinehr,SC,PL,https://www.camara.leg.br/internet/deputado/bandep/220557.jpg
+119,62881,Danilo Forte,CE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/62881.jpg
+120,160552,Danrlei de Deus Hinterholz,RS,PSD,https://www.camara.leg.br/internet/deputado/bandep/160552.jpg
+121,204511,David Soares,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204511.jpg
+122,220539,Defensor Stélio Dener,RR,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220539.jpg
+123,220565,Delegada Adriana Accorsi,GO,PT,https://www.camara.leg.br/internet/deputado/bandep/220565.jpg
+124,220625,Delegada Ione,MG,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/220625.jpg
+125,220561,Delegada Katarina,SE,PSD,https://www.camara.leg.br/internet/deputado/bandep/220561.jpg
+126,220642,Delegado Bruno Lima,SP,PP,https://www.camara.leg.br/internet/deputado/bandep/220642.jpg
+127,220673,Delegado Caveira,PA,PL,https://www.camara.leg.br/internet/deputado/bandep/220673.jpg
+128,220649,Delegado da Cunha,SP,PP,https://www.camara.leg.br/internet/deputado/bandep/220649.jpg
+129,178908,Delegado Éder Mauro,PA,PL,https://www.camara.leg.br/internet/deputado/bandep/178908.jpg
+130,220583,Delegado Fabio Costa,AL,PP,https://www.camara.leg.br/internet/deputado/bandep/220583.jpg
+131,204512,Delegado Marcelo Freitas,MG,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204512.jpg
+132,220701,Delegado Matheus Laiola,PR,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220701.jpg
+133,220652,Delegado Palumbo,SP,MDB,https://www.camara.leg.br/internet/deputado/bandep/220652.jpg
+134,220654,Delegado Paulo Bilynskyj,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/220654.jpg
+135,220553,Denise Pessôa,RS,PT,https://www.camara.leg.br/internet/deputado/bandep/220553.jpg
+136,160588,Diego Andrade,MG,PSD,https://www.camara.leg.br/internet/deputado/bandep/160588.jpg
+137,220691,Diego Coronel,BA,PSD,https://www.camara.leg.br/internet/deputado/bandep/220691.jpg
+138,178929,Diego Garcia,PR,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/178929.jpg
+139,73768,Dilceu Sperafico,PR,PP,https://www.camara.leg.br/internet/deputado/bandep/73768.jpg
+140,220671,Dilvanda Faro,PA,PT,https://www.camara.leg.br/internet/deputado/bandep/220671.jpg
+141,160599,Dimas Fabiano,MG,PP,https://www.camara.leg.br/internet/deputado/bandep/160599.jpg
+142,220602,Dimas Gadelha,RJ,PT,https://www.camara.leg.br/internet/deputado/bandep/220602.jpg
+143,143632,Domingos Neto,CE,PSD,https://www.camara.leg.br/internet/deputado/bandep/143632.jpg
+144,160758,Domingos Sávio,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/160758.jpg
+145,220573,Dorinaldo Malafaia,AP,PDT,https://www.camara.leg.br/internet/deputado/bandep/220573.jpg
+146,227433,Douglas Viegas,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/227433.jpg
+147,204450,Doutor Luizinho,RJ,PP,https://www.camara.leg.br/internet/deputado/bandep/204450.jpg
+148,227991,Dr Flávio,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/227991.jpg
+149,220610,Dr. Fernando Máximo,RO,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220610.jpg
+150,220688,Dr. Francisco,PI,PT,https://www.camara.leg.br/internet/deputado/bandep/220688.jpg
+151,204518,Dr. Frederico,MG,PRD,https://www.camara.leg.br/internet/deputado/bandep/204518.jpg
+152,220570,Dr. Ismael Alexandrino,GO,PSD,https://www.camara.leg.br/internet/deputado/bandep/220570.jpg
+153,204481,Dr. Jaziel,CE,PL,https://www.camara.leg.br/internet/deputado/bandep/204481.jpg
+154,204351,Dr. Luiz Ovando,MS,PP,https://www.camara.leg.br/internet/deputado/bandep/204351.jpg
+155,220528,Dr. Victor Linhalis,ES,PODE,https://www.camara.leg.br/internet/deputado/bandep/220528.jpg
+156,204412,Dr. Zacharias Calil,GO,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204412.jpg
+157,220674,Dra. Alessandra Haber,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/220674.jpg
+158,220686,Duarte Jr.,MA,PSB,https://www.camara.leg.br/internet/deputado/bandep/220686.jpg
+159,220540,Duda Ramos,RR,MDB,https://www.camara.leg.br/internet/deputado/bandep/220540.jpg
+160,220623,Duda Salabert,MG,PDT,https://www.camara.leg.br/internet/deputado/bandep/220623.jpg
+161,141421,Eduardo da Fonte,PE,PP,https://www.camara.leg.br/internet/deputado/bandep/141421.jpg
+162,220589,Eduardo Velloso,AC,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220589.jpg
+163,74075,Elcione Barbalho,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/74075.jpg
+164,204364,Eli Borges,TO,PL,https://www.camara.leg.br/internet/deputado/bandep/204364.jpg
+165,229585,Elisangela Araujo,BA,PT,https://www.camara.leg.br/internet/deputado/bandep/229585.jpg
+166,178854,Elmar Nascimento,BA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/178854.jpg
+167,218086,Ely Santos,SP,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/218086.jpg
+168,198783,Emanuel Pinheiro Neto,MT,MDB,https://www.camara.leg.br/internet/deputado/bandep/198783.jpg
+169,161550,Emidinho Madeira,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/161550.jpg
+170,225730,Enfermeira Ana Paula,CE,PODE,https://www.camara.leg.br/internet/deputado/bandep/225730.jpg
+171,230765,Enfermeira Rejane,RJ,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/230765.jpg
+172,220663,Eriberto Medeiros,PE,PSB,https://www.camara.leg.br/internet/deputado/bandep/220663.jpg
+173,220645,Erika Hilton,SP,PSOL,https://www.camara.leg.br/internet/deputado/bandep/220645.jpg
+174,160575,Erika Kokay,DF,PT,https://www.camara.leg.br/internet/deputado/bandep/160575.jpg
+175,160640,Eros Biondini,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/160640.jpg
+176,204482,Euclydes Pettersen,MG,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204482.jpg
+177,74454,Eunício Oliveira,CE,MDB,https://www.camara.leg.br/internet/deputado/bandep/74454.jpg
+178,178871,Evair Vieira de Melo,ES,PP,https://www.camara.leg.br/internet/deputado/bandep/178871.jpg
+179,234388,Fabiano Cazeca,MG,PRD,https://www.camara.leg.br/internet/deputado/bandep/234388.jpg
+180,220681,Fábio Macedo,MA,PODE,https://www.camara.leg.br/internet/deputado/bandep/220681.jpg
+181,171623,Fabio Reis,SE,PSD,https://www.camara.leg.br/internet/deputado/bandep/171623.jpg
+182,204368,Fabio Schiochet,SC,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204368.jpg
+183,220653,Fábio Teruel,SP,MDB,https://www.camara.leg.br/internet/deputado/bandep/220653.jpg
+184,74065,Fatima Pelaes,AP,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/74065.jpg
+185,220712,Fausto Jr.,AM,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220712.jpg
+186,66828,Fausto Pinato,SP,PP,https://www.camara.leg.br/internet/deputado/bandep/66828.jpg
+187,220646,Felipe Becari,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220646.jpg
+188,72442,Felipe Carreras,PE,PSB,https://www.camara.leg.br/internet/deputado/bandep/72442.jpg
+189,204398,Felipe Francischini,PR,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204398.jpg
+190,160666,Félix Mendonça Júnior,BA,PDT,https://www.camara.leg.br/internet/deputado/bandep/160666.jpg
+191,204407,Fernanda Melchionna,RS,PSOL,https://www.camara.leg.br/internet/deputado/bandep/204407.jpg
+192,141431,Fernando Coelho Filho,PE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/141431.jpg
+193,204445,Fernando Mineiro,RN,PT,https://www.camara.leg.br/internet/deputado/bandep/204445.jpg
+194,92699,Fernando Monteiro,PE,PSD,https://www.camara.leg.br/internet/deputado/bandep/92699.jpg
+195,204427,Fernando Rodolfo,PE,PL,https://www.camara.leg.br/internet/deputado/bandep/204427.jpg
+196,204411,Filipe Barros,PR,PL,https://www.camara.leg.br/internet/deputado/bandep/204411.jpg
+197,220545,Filipe Martins,TO,PL,https://www.camara.leg.br/internet/deputado/bandep/220545.jpg
+198,160598,Flávia Morais,GO,PDT,https://www.camara.leg.br/internet/deputado/bandep/160598.jpg
+199,191923,Flávio Nogueira,PI,PT,https://www.camara.leg.br/internet/deputado/bandep/191923.jpg
+200,220700,Florentino Neto,PI,PT,https://www.camara.leg.br/internet/deputado/bandep/220700.jpg
+201,220551,Franciane Bayer,RS,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220551.jpg
+202,204494,Fred Costa,MG,PRD,https://www.camara.leg.br/internet/deputado/bandep/204494.jpg
+203,220534,Fred Linhares,DF,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220534.jpg
+204,224117,Gabriel Mota,RR,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/224117.jpg
+205,220708,Gabriel Nunes,BA,PSD,https://www.camara.leg.br/internet/deputado/bandep/220708.jpg
+206,204473,General Girão,RN,PL,https://www.camara.leg.br/internet/deputado/bandep/204473.jpg
+207,220611,General Pazuello,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/220611.jpg
+208,178966,Geovania de Sá,SC,PSDB,https://www.camara.leg.br/internet/deputado/bandep/178966.jpg
+209,220702,Geraldo Mendes,PR,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220702.jpg
+210,74374,Geraldo Resende,MS,PSDB,https://www.camara.leg.br/internet/deputado/bandep/74374.jpg
+211,204394,Gervásio Maia,PB,PSB,https://www.camara.leg.br/internet/deputado/bandep/204394.jpg
+212,74383,Giacobo,PR,PL,https://www.camara.leg.br/internet/deputado/bandep/74383.jpg
+213,204491,Gilberto Abramo,MG,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204491.jpg
+214,74270,Gilberto Nascimento,SP,PSD,https://www.camara.leg.br/internet/deputado/bandep/74270.jpg
+215,220529,Gilson Daniel,ES,PODE,https://www.camara.leg.br/internet/deputado/bandep/220529.jpg
+216,204365,Gilson Marques,SC,NOVO,https://www.camara.leg.br/internet/deputado/bandep/204365.jpg
+217,220526,Gilvan da Federal,ES,PL,https://www.camara.leg.br/internet/deputado/bandep/220526.jpg
+218,160673,Giovani Cherini,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/160673.jpg
+219,226179,Gisela Simona,MT,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/226179.jpg
+220,204419,Glaustin da Fokus,GO,PODE,https://www.camara.leg.br/internet/deputado/bandep/204419.jpg
+221,129618,Gorete Pereira,CE,MDB,https://www.camara.leg.br/internet/deputado/bandep/129618.jpg
+222,198197,Greyce Elias,MG,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/198197.jpg
+223,204531,Guilherme Derrite,SP,PP,https://www.camara.leg.br/internet/deputado/bandep/204531.jpg
+224,220664,Guilherme Uchoa,PE,PSB,https://www.camara.leg.br/internet/deputado/bandep/220664.jpg
+225,220568,Gustavo Gayer,GO,PL,https://www.camara.leg.br/internet/deputado/bandep/220568.jpg
+226,204408,Gustinho Ribeiro,SE,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204408.jpg
+227,204456,Gutemberg Reis,RJ,MDB,https://www.camara.leg.br/internet/deputado/bandep/204456.jpg
+228,178964,Heitor Schuch,RS,PSB,https://www.camara.leg.br/internet/deputado/bandep/178964.jpg
+229,178873,Helder Salomão,ES,PT,https://www.camara.leg.br/internet/deputado/bandep/178873.jpg
+230,220537,Helena Lima,RR,MDB,https://www.camara.leg.br/internet/deputado/bandep/220537.jpg
+231,204444,Helio Lopes,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/204444.jpg
+232,234788,Heloísa Helena,RJ,REDE,https://www.camara.leg.br/internet/deputado/bandep/234788.jpg
+233,220672,Henderson Pinto,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/220672.jpg
+234,204539,Hercílio Coelho Diniz,MG,MDB,https://www.camara.leg.br/internet/deputado/bandep/204539.jpg
+235,178884,Hildo Rocha,MA,MDB,https://www.camara.leg.br/internet/deputado/bandep/178884.jpg
+236,141450,Hugo Leal,RJ,PSD,https://www.camara.leg.br/internet/deputado/bandep/141450.jpg
+237,160674,Hugo Motta,PB,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/160674.jpg
+238,220563,Icaro de Valmir,SE,PL,https://www.camara.leg.br/internet/deputado/bandep/220563.jpg
+239,204508,Igor Timo,MG,PSD,https://www.camara.leg.br/internet/deputado/bandep/204508.jpg
+240,98615,Ismael,SC,PSD,https://www.camara.leg.br/internet/deputado/bandep/98615.jpg
+241,204436,Isnaldo Bulhões Jr.,AL,MDB,https://www.camara.leg.br/internet/deputado/bandep/204436.jpg
+242,73531,Ivan Valente,SP,PSOL,https://www.camara.leg.br/internet/deputado/bandep/73531.jpg
+243,220696,Ivoneide Caetano,BA,PT,https://www.camara.leg.br/internet/deputado/bandep/220696.jpg
+244,220670,Iza Arruda,PE,MDB,https://www.camara.leg.br/internet/deputado/bandep/220670.jpg
+245,220527,Jack Rocha,ES,PT,https://www.camara.leg.br/internet/deputado/bandep/220527.jpg
+246,220697,Jadyel Alencar,PI,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220697.jpg
+247,74848,Jandira Feghali,RJ,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/74848.jpg
+248,220567,Jeferson Rodrigues,GO,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220567.jpg
+249,74273,Jefferson Campos,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/74273.jpg
+250,141456,Jilmar Tatto,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/141456.jpg
+251,141458,João Carlos Bacelar,BA,PL,https://www.camara.leg.br/internet/deputado/bandep/141458.jpg
+252,230957,João Cury,SP,MDB,https://www.camara.leg.br/internet/deputado/bandep/230957.jpg
+253,178970,João Daniel,SE,PT,https://www.camara.leg.br/internet/deputado/bandep/178970.jpg
+254,74550,João Leão,BA,PP,https://www.camara.leg.br/internet/deputado/bandep/74550.jpg
+255,141459,João Maia,RN,PP,https://www.camara.leg.br/internet/deputado/bandep/141459.jpg
+256,178910,Joaquim Passarinho,PA,PL,https://www.camara.leg.br/internet/deputado/bandep/178910.jpg
+257,160548,Jonas Donizette,SP,PSB,https://www.camara.leg.br/internet/deputado/bandep/160548.jpg
+258,205550,Jorge Braz,RJ,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/205550.jpg
+259,214694,Jorge Goetten,SC,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/214694.jpg
+260,178857,Jorge Solla,BA,PT,https://www.camara.leg.br/internet/deputado/bandep/178857.jpg
+261,141464,José Airton Félix Cirilo,CE,PT,https://www.camara.leg.br/internet/deputado/bandep/141464.jpg
+262,141470,José Guimarães,CE,PT,https://www.camara.leg.br/internet/deputado/bandep/141470.jpg
+263,204472,José Medeiros,MT,PL,https://www.camara.leg.br/internet/deputado/bandep/204472.jpg
+264,204391,José Nelto,GO,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204391.jpg
+265,74079,José Priante,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/74079.jpg
+266,74554,José Rocha,BA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/74554.jpg
+267,209189,Joseildo Ramos,BA,PT,https://www.camara.leg.br/internet/deputado/bandep/209189.jpg
+268,220578,Josenildo,AP,PDT,https://www.camara.leg.br/internet/deputado/bandep/220578.jpg
+269,215043,Josivaldo JP,MA,PSD,https://www.camara.leg.br/internet/deputado/bandep/215043.jpg
+270,204474,Juarez Costa,MT,MDB,https://www.camara.leg.br/internet/deputado/bandep/204474.jpg
+271,220559,Julia Zanatta,SC,PL,https://www.camara.leg.br/internet/deputado/bandep/220559.jpg
+272,220640,Juliana Cardoso,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/220640.jpg
+273,66385,Julio Arcoverde,PI,PP,https://www.camara.leg.br/internet/deputado/bandep/66385.jpg
+274,74317,Júlio Cesar,PI,PSD,https://www.camara.leg.br/internet/deputado/bandep/74317.jpg
+275,204372,Julio Cesar Ribeiro,DF,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204372.jpg
+276,74253,Julio Lopes,RJ,PP,https://www.camara.leg.br/internet/deputado/bandep/74253.jpg
+277,204457,Juninho do Pneu,RJ,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204457.jpg
+278,204520,Junio Amaral,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/204520.jpg
+279,204497,Júnior Ferrari,PA,PSD,https://www.camara.leg.br/internet/deputado/bandep/204497.jpg
+280,204574,Junior Lourenço,MA,PL,https://www.camara.leg.br/internet/deputado/bandep/204574.jpg
+281,204550,Júnior Mano,CE,PSB,https://www.camara.leg.br/internet/deputado/bandep/204550.jpg
+282,178886,Juscelino Filho,MA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/178886.jpg
+283,220677,Keniston Braga,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/220677.jpg
+284,162067,Kiko Celeguim,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/162067.jpg
+285,204536,Kim Kataguiri,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204536.jpg
+286,98057,Lafayette de Andrada,MG,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/98057.jpg
+287,74856,Laura Carneiro,RJ,PSD,https://www.camara.leg.br/internet/deputado/bandep/74856.jpg
+288,220566,Lêda Borges,GO,PSDB,https://www.camara.leg.br/internet/deputado/bandep/220566.jpg
+289,231911,Lenir de Assis,PR,PT,https://www.camara.leg.br/internet/deputado/bandep/231911.jpg
+290,80815,Leo Prates,BA,PDT,https://www.camara.leg.br/internet/deputado/bandep/80815.jpg
+291,74156,Leonardo Monteiro,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/74156.jpg
+292,74299,Leônidas Cristino,CE,PDT,https://www.camara.leg.br/internet/deputado/bandep/74299.jpg
+293,92102,Leur Lomanto Júnior,BA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/92102.jpg
+294,139285,Lídice da Mata,BA,PSB,https://www.camara.leg.br/internet/deputado/bandep/139285.jpg
+295,74585,Lincoln Portela,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/74585.jpg
+296,74858,Lindbergh Farias,RJ,PT,https://www.camara.leg.br/internet/deputado/bandep/74858.jpg
+297,220662,Lucas Ramos,PE,PSB,https://www.camara.leg.br/internet/deputado/bandep/220662.jpg
+298,204404,Lucas Redecker,RS,PSDB,https://www.camara.leg.br/internet/deputado/bandep/204404.jpg
+299,138286,Luciano Alves,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/138286.jpg
+300,220581,Luciano Amaral,AL,PSD,https://www.camara.leg.br/internet/deputado/bandep/220581.jpg
+301,74478,Luciano Bivar,PE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/74478.jpg
+302,178931,Luciano Ducci,PR,PSB,https://www.camara.leg.br/internet/deputado/bandep/178931.jpg
+303,220616,Luciano Vieira,RJ,PSDB,https://www.camara.leg.br/internet/deputado/bandep/220616.jpg
+304,178954,Lucio Mosquini,RO,MDB,https://www.camara.leg.br/internet/deputado/bandep/178954.jpg
+305,222429,Luis Carlos Gomes,RJ,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/222429.jpg
+306,160510,Luis Tibé,MG,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/160510.jpg
+307,204410,Luisa Canziani,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/204410.jpg
+308,141485,Luiz Carlos Busato,RS,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/141485.jpg
+309,73778,Luiz Carlos Hauly,PR,PODE,https://www.camara.leg.br/internet/deputado/bandep/73778.jpg
+310,204485,Luiz Carlos Motta,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/204485.jpg
+311,74041,Luiz Couto,PB,PT,https://www.camara.leg.br/internet/deputado/bandep/74041.jpg
+312,141487,Luiz Fernando Faria,MG,PSD,https://www.camara.leg.br/internet/deputado/bandep/141487.jpg
+313,220658,Luiz Gastão,CE,PSD,https://www.camara.leg.br/internet/deputado/bandep/220658.jpg
+314,204455,Luiz Lima,RJ,NOVO,https://www.camara.leg.br/internet/deputado/bandep/204455.jpg
+315,162332,Luiz Nishimori,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/162332.jpg
+316,204526,Luiz Philippe de Orleans e Bragança,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/204526.jpg
+317,74784,Luiza Erundina,SP,PSOL,https://www.camara.leg.br/internet/deputado/bandep/74784.jpg
+318,178866,Luizianne Lins,CE,PT,https://www.camara.leg.br/internet/deputado/bandep/178866.jpg
+319,220669,Lula da Fonte,PE,PP,https://www.camara.leg.br/internet/deputado/bandep/220669.jpg
+320,166402,Magda Mofatto,GO,PRD,https://www.camara.leg.br/internet/deputado/bandep/166402.jpg
+321,220648,Marangoni,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220648.jpg
+322,156190,Marcel van Hattem,RS,NOVO,https://www.camara.leg.br/internet/deputado/bandep/156190.jpg
+323,179000,Marcelo Álvaro Antônio,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/179000.jpg
+324,220599,Marcelo Crivella,RJ,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220599.jpg
+325,133810,Marcelo Moraes,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/133810.jpg
+326,160161,Marcelo Queiroz,RJ,PSDB,https://www.camara.leg.br/internet/deputado/bandep/160161.jpg
+327,178983,Marcio Alvino,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/178983.jpg
+328,179001,Márcio Biolchi,RS,MDB,https://www.camara.leg.br/internet/deputado/bandep/179001.jpg
+329,220687,Márcio Honaiser,MA,PDT,https://www.camara.leg.br/internet/deputado/bandep/220687.jpg
+330,81055,Márcio Jerry,MA,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/81055.jpg
+331,150418,Márcio Marinho,BA,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/150418.jpg
+332,160535,Marcon,RS,PT,https://www.camara.leg.br/internet/deputado/bandep/160535.jpg
+333,204431,Marcos Aurélio Sampaio,PI,PSD,https://www.camara.leg.br/internet/deputado/bandep/204431.jpg
+334,204506,Marcos Pereira,SP,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204506.jpg
+335,220547,Marcos Pollon,MS,PL,https://www.camara.leg.br/internet/deputado/bandep/220547.jpg
+336,178943,Marcos Soares,RJ,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/178943.jpg
+337,220604,Marcos Tavares,RJ,PDT,https://www.camara.leg.br/internet/deputado/bandep/220604.jpg
+338,220668,Maria Arraes,PE,SOLIDARIEDADE,https://www.camara.leg.br/internet/deputado/bandep/220668.jpg
+339,74398,Maria do Rosário,RS,PT,https://www.camara.leg.br/internet/deputado/bandep/74398.jpg
+340,204540,Maria Rosas,SP,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204540.jpg
+341,220655,Mario Frias,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/220655.jpg
+342,74158,Mário Heringer,MG,PDT,https://www.camara.leg.br/internet/deputado/bandep/74158.jpg
+343,178858,Mário Negromonte Jr.,BA,PP,https://www.camara.leg.br/internet/deputado/bandep/178858.jpg
+344,220572,Marussa Boldrin,GO,MDB,https://www.camara.leg.br/internet/deputado/bandep/220572.jpg
+345,178843,Marx Beltrão,AL,PP,https://www.camara.leg.br/internet/deputado/bandep/178843.jpg
+346,220661,Matheus Noronha,CE,PL,https://www.camara.leg.br/internet/deputado/bandep/220661.jpg
+347,220609,Maurício Carvalho,RO,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220609.jpg
+348,220628,Mauricio do Vôlei,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/220628.jpg
+349,220550,Mauricio Marcon,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/220550.jpg
+350,220647,Mauricio Neves,SP,PP,https://www.camara.leg.br/internet/deputado/bandep/220647.jpg
+351,204486,Mauro Benevides Filho,CE,PDT,https://www.camara.leg.br/internet/deputado/bandep/204486.jpg
+352,220607,Max Lemos,RJ,PDT,https://www.camara.leg.br/internet/deputado/bandep/220607.jpg
+353,220591,Meire Serafim,AC,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220591.jpg
+354,74428,Mendonça Filho,PE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/74428.jpg
+355,188097,Merlong Solano,PI,PT,https://www.camara.leg.br/internet/deputado/bandep/188097.jpg
+356,220585,Mersinho Lucena,PB,PP,https://www.camara.leg.br/internet/deputado/bandep/220585.jpg
+357,220530,Messias Donato,ES,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220530.jpg
+358,171786,Miguel Ângelo,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/171786.jpg
+359,178985,Miguel Lombardi,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/178985.jpg
+360,178895,Misael Varella,MG,PSD,https://www.camara.leg.br/internet/deputado/bandep/178895.jpg
+361,160561,Missionário José Olimpio,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/160561.jpg
+362,178997,Moses Rodrigues,CE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/178997.jpg
+363,220617,Murillo Gouvea,RJ,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220617.jpg
+364,220584,Murilo Galdino,PB,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220584.jpg
+365,204453,Natália Bonavides,RN,PT,https://www.camara.leg.br/internet/deputado/bandep/204453.jpg
+366,204449,Nelson Barbudo,MT,PL,https://www.camara.leg.br/internet/deputado/bandep/204449.jpg
+367,220703,Neto Carletto,BA,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/220703.jpg
+368,178896,Newton Cardoso Jr,MG,MDB,https://www.camara.leg.br/internet/deputado/bandep/178896.jpg
+369,204479,Nicoletti,RR,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/204479.jpg
+370,209787,Nikolas Ferreira,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/209787.jpg
+371,178986,Nilto Tatto,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/178986.jpg
+372,74159,Odair Cunha,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/74159.jpg
+373,204498,Olival Marques,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/204498.jpg
+374,178987,Orlando Silva,SP,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/178987.jpg
+375,73692,Osmar Terra,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/73692.jpg
+376,204422,Ossesio Silva,PE,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204422.jpg
+377,204441,Otoni de Paula,RJ,MDB,https://www.camara.leg.br/internet/deputado/bandep/204441.jpg
+378,220706,Padovani,PR,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220706.jpg
+379,160556,Padre João,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/160556.jpg
+380,180214,Pastor Diniz,RR,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/180214.jpg
+381,160642,Pastor Eurico,PE,PL,https://www.camara.leg.br/internet/deputado/bandep/160642.jpg
+382,204570,Pastor Gil,MA,PL,https://www.camara.leg.br/internet/deputado/bandep/204570.jpg
+383,220615,Pastor Henrique Vieira,RJ,PSOL,https://www.camara.leg.br/internet/deputado/bandep/220615.jpg
+384,204553,Pastor Sargento Isidório,BA,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/204553.jpg
+385,74160,Patrus Ananias,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/74160.jpg
+386,74095,Pauderney Avelino,AM,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/74095.jpg
+387,171617,Paulão,AL,PT,https://www.camara.leg.br/internet/deputado/bandep/171617.jpg
+388,141518,Paulinho da Força,SP,SOLIDARIEDADE,https://www.camara.leg.br/internet/deputado/bandep/141518.jpg
+389,141516,Paulo Abi-Ackel,MG,PSDB,https://www.camara.leg.br/internet/deputado/bandep/141516.jpg
+390,220650,Paulo Alexandre Barbosa,SP,PSDB,https://www.camara.leg.br/internet/deputado/bandep/220650.jpg
+391,178860,Paulo Azi,BA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/178860.jpg
+392,160517,Paulo Folletto,ES,PSB,https://www.camara.leg.br/internet/deputado/bandep/160517.jpg
+393,160558,Paulo Freire Costa,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/160558.jpg
+394,204492,Paulo Guedes,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/204492.jpg
+395,220685,Paulo Litro,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/220685.jpg
+396,74574,Paulo Magalhães,BA,PSD,https://www.camara.leg.br/internet/deputado/bandep/74574.jpg
+397,128760,Paulo Marinho Jr,MA,PL,https://www.camara.leg.br/internet/deputado/bandep/128760.jpg
+398,74400,Paulo Pimenta,RS,PT,https://www.camara.leg.br/internet/deputado/bandep/74400.jpg
+399,220667,Pedro Campos,PE,PSB,https://www.camara.leg.br/internet/deputado/bandep/220667.jpg
+400,122974,Pedro Lucas Fernandes,MA,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/122974.jpg
+401,204395,Pedro Lupion,PR,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/204395.jpg
+402,122158,Pedro Paulo,RJ,PSD,https://www.camara.leg.br/internet/deputado/bandep/122158.jpg
+403,160604,Pedro Uczai,SC,PT,https://www.camara.leg.br/internet/deputado/bandep/160604.jpg
+404,204406,Pedro Westphalen,RS,PP,https://www.camara.leg.br/internet/deputado/bandep/204406.jpg
+405,161440,Pezenti,SC,MDB,https://www.camara.leg.br/internet/deputado/bandep/161440.jpg
+406,204524,Pinheirinho,MG,PP,https://www.camara.leg.br/internet/deputado/bandep/204524.jpg
+407,73486,Pompeo de Mattos,RS,PDT,https://www.camara.leg.br/internet/deputado/bandep/73486.jpg
+408,160601,Pr. Marco Feliciano,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/160601.jpg
+409,220533,Prof. Reginaldo Veras,DF,PV,https://www.camara.leg.br/internet/deputado/bandep/220533.jpg
+410,204390,Professor Alcides,GO,PL,https://www.camara.leg.br/internet/deputado/bandep/204390.jpg
+411,221338,Professora Luciene Cavalcante,SP,PSOL,https://www.camara.leg.br/internet/deputado/bandep/221338.jpg
+412,160641,Professora Marcivania,AP,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/160641.jpg
+413,220586,Rafael Brito,AL,MDB,https://www.camara.leg.br/internet/deputado/bandep/220586.jpg
+414,233594,Rafael Fera,RO,PODE,https://www.camara.leg.br/internet/deputado/bandep/233594.jpg
+415,220532,Rafael Prudente,DF,MDB,https://www.camara.leg.br/internet/deputado/bandep/220532.jpg
+416,220626,Rafael Simoes,MG,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220626.jpg
+417,204567,Raimundo Costa,BA,PODE,https://www.camara.leg.br/internet/deputado/bandep/204567.jpg
+418,74084,Raimundo Santos,PA,PSD,https://www.camara.leg.br/internet/deputado/bandep/74084.jpg
+419,74161,Reginaldo Lopes,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/74161.jpg
+420,220606,Reimont,RJ,PT,https://www.camara.leg.br/internet/deputado/bandep/220606.jpg
+421,205865,Reinhold Stephanes,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/205865.jpg
+422,178989,Renata Abreu,SP,PODE,https://www.camara.leg.br/internet/deputado/bandep/178989.jpg
+423,153423,Renilce Nicodemos,PA,MDB,https://www.camara.leg.br/internet/deputado/bandep/153423.jpg
+424,73801,Renildo Calheiros,PE,PCdoB,https://www.camara.leg.br/internet/deputado/bandep/73801.jpg
+425,175765,Ribamar Silva,SP,PSD,https://www.camara.leg.br/internet/deputado/bandep/175765.jpg
+426,235088,Ribeiro Neto,MA,PRD,https://www.camara.leg.br/internet/deputado/bandep/235088.jpg
+427,221329,Ricardo Abrão,RJ,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/221329.jpg
+428,220543,Ricardo Ayres,TO,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220543.jpg
+429,73788,Ricardo Barros,PR,PP,https://www.camara.leg.br/internet/deputado/bandep/73788.jpg
+430,234310,Ricardo Galvão,SP,REDE,https://www.camara.leg.br/internet/deputado/bandep/234310.jpg
+431,204362,Ricardo Guidi,SC,PL,https://www.camara.leg.br/internet/deputado/bandep/204362.jpg
+432,220694,Ricardo Maia,BA,MDB,https://www.camara.leg.br/internet/deputado/bandep/220694.jpg
+433,220633,Ricardo Salles,SP,NOVO,https://www.camara.leg.br/internet/deputado/bandep/220633.jpg
+434,204489,Robério Monteiro,CE,PDT,https://www.camara.leg.br/internet/deputado/bandep/204489.jpg
+435,220693,Roberta Roma,BA,PL,https://www.camara.leg.br/internet/deputado/bandep/220693.jpg
+436,220588,Roberto Duarte,AC,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220588.jpg
+437,220613,Roberto Monteiro Pai,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/220613.jpg
+438,220624,Robinson Faria,RN,PP,https://www.camara.leg.br/internet/deputado/bandep/220624.jpg
+439,220546,Rodolfo Nogueira,MS,PL,https://www.camara.leg.br/internet/deputado/bandep/220546.jpg
+440,230767,Rodrigo da Zaeli,MT,PL,https://www.camara.leg.br/internet/deputado/bandep/230767.jpg
+441,141531,Rodrigo de Castro,MG,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/141531.jpg
+442,223128,Rodrigo Estacho,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/223128.jpg
+443,220641,Rodrigo Gambale,SP,PODE,https://www.camara.leg.br/internet/deputado/bandep/220641.jpg
+444,141533,Rodrigo Rollemberg,DF,PSB,https://www.camara.leg.br/internet/deputado/bandep/141533.jpg
+445,165470,Rodrigo Valadares,SE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/165470.jpg
+446,220695,Rogéria Santos,BA,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220695.jpg
+447,204480,Rogério Correia,MG,PT,https://www.camara.leg.br/internet/deputado/bandep/204480.jpg
+448,160629,Romero Rodrigues,PB,PODE,https://www.camara.leg.br/internet/deputado/bandep/160629.jpg
+449,204525,Rosana Valle,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/204525.jpg
+450,220644,Rosangela Moro,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220644.jpg
+451,220620,Rosângela Reis,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/220620.jpg
+452,74371,Rubens Otoni,GO,PT,https://www.camara.leg.br/internet/deputado/bandep/74371.jpg
+453,178887,Rubens Pereira Júnior,MA,PT,https://www.camara.leg.br/internet/deputado/bandep/178887.jpg
+454,73604,Rui Falcão,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/73604.jpg
+455,160635,Ruy Carneiro,PB,PODE,https://www.camara.leg.br/internet/deputado/bandep/160635.jpg
+456,204535,Sâmia Bomfim,SP,PSOL,https://www.camara.leg.br/internet/deputado/bandep/204535.jpg
+457,220631,Samuel Viana,MG,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220631.jpg
+458,204416,Sanderson,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/204416.jpg
+459,204387,Sargento Fahur,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/204387.jpg
+460,220621,Sargento Gonçalves,RN,PL,https://www.camara.leg.br/internet/deputado/bandep/220621.jpg
+461,220618,Sargento Portugal,RJ,PODE,https://www.camara.leg.br/internet/deputado/bandep/220618.jpg
+462,226837,Saulo Pedroso,SP,PSD,https://www.camara.leg.br/internet/deputado/bandep/226837.jpg
+463,73808,Sérgio Brito,BA,PSD,https://www.camara.leg.br/internet/deputado/bandep/73808.jpg
+464,77003,Sergio Santos Rodrigues,MG,PODE,https://www.camara.leg.br/internet/deputado/bandep/77003.jpg
+465,178933,Sergio Souza,PR,MDB,https://www.camara.leg.br/internet/deputado/bandep/178933.jpg
+466,204557,Sidney Leite,AM,PSD,https://www.camara.leg.br/internet/deputado/bandep/204557.jpg
+467,74356,Silas Câmara,AM,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/74356.jpg
+468,204360,Silvia Cristina,RO,PP,https://www.camara.leg.br/internet/deputado/bandep/204360.jpg
+469,227310,Silvio Antonio,MA,PL,https://www.camara.leg.br/internet/deputado/bandep/227310.jpg
+470,220569,Silvye Alves,GO,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220569.jpg
+471,220651,Simone Marquetto,SP,MDB,https://www.camara.leg.br/internet/deputado/bandep/220651.jpg
+472,104552,Socorro Neri,AC,PP,https://www.camara.leg.br/internet/deputado/bandep/104552.jpg
+473,222565,Soldado Noelio,CE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/222565.jpg
+474,178946,Soraya Santos,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/178946.jpg
+475,178947,Sóstenes Cavalcante,RJ,PL,https://www.camara.leg.br/internet/deputado/bandep/178947.jpg
+476,92776,Stefano Aguiar,MG,PSD,https://www.camara.leg.br/internet/deputado/bandep/92776.jpg
+477,204534,Tabata Amaral,SP,PSB,https://www.camara.leg.br/internet/deputado/bandep/204534.jpg
+478,220682,Tadeu Veneri,PR,PT,https://www.camara.leg.br/internet/deputado/bandep/220682.jpg
+479,204464,Talíria Petrone,RJ,PSOL,https://www.camara.leg.br/internet/deputado/bandep/204464.jpg
+480,220598,Tarcísio Motta,RJ,PSOL,https://www.camara.leg.br/internet/deputado/bandep/220598.jpg
+481,220560,Thiago de Joaldo,SE,PP,https://www.camara.leg.br/internet/deputado/bandep/220560.jpg
+482,220597,Thiago Flores,RO,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220597.jpg
+483,143084,Tiago Dimas,TO,PODE,https://www.camara.leg.br/internet/deputado/bandep/143084.jpg
+484,220684,Tião Medeiros,PR,PP,https://www.camara.leg.br/internet/deputado/bandep/220684.jpg
+485,160976,Tiririca,SP,PSD,https://www.camara.leg.br/internet/deputado/bandep/160976.jpg
+486,178934,Toninho Wandscheer,PR,PP,https://www.camara.leg.br/internet/deputado/bandep/178934.jpg
+487,157130,Túlio Gadêlha,PE,REDE,https://www.camara.leg.br/internet/deputado/bandep/157130.jpg
+488,160610,Valmir Assunção,BA,PT,https://www.camara.leg.br/internet/deputado/bandep/160610.jpg
+489,74376,Vander Loubet,MS,PT,https://www.camara.leg.br/internet/deputado/bandep/74376.jpg
+490,234673,Vanderlan Alves,CE,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/234673.jpg
+491,204396,Vermelho,PR,PP,https://www.camara.leg.br/internet/deputado/bandep/204396.jpg
+492,74283,Vicentinho,SP,PT,https://www.camara.leg.br/internet/deputado/bandep/74283.jpg
+493,137070,Vicentinho Júnior,TO,PP,https://www.camara.leg.br/internet/deputado/bandep/137070.jpg
+494,141555,Vinicius Carvalho,SP,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/141555.jpg
+495,160591,Vinicius Gurgel,AP,PL,https://www.camara.leg.br/internet/deputado/bandep/160591.jpg
+496,178992,Vitor Lippi,SP,PSDB,https://www.camara.leg.br/internet/deputado/bandep/178992.jpg
+497,91228,Waldemar Oliveira,PE,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/91228.jpg
+498,160569,Waldenor Pereira,BA,PT,https://www.camara.leg.br/internet/deputado/bandep/160569.jpg
+499,160518,Weliton Prado,MG,SOLIDARIEDADE,https://www.camara.leg.br/internet/deputado/bandep/160518.jpg
+500,74043,Wellington Roberto,PB,PL,https://www.camara.leg.br/internet/deputado/bandep/74043.jpg
+501,224333,Welter,PR,PT,https://www.camara.leg.br/internet/deputado/bandep/224333.jpg
+502,74044,Wilson Santiago,PB,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/74044.jpg
+503,220564,Yandra Moura,SE,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220564.jpg
+504,230768,Zé Adriano,AC,PP,https://www.camara.leg.br/internet/deputado/bandep/230768.jpg
+505,220536,Zé Haroldo Cathedral,RR,PSD,https://www.camara.leg.br/internet/deputado/bandep/220536.jpg
+506,204559,Zé Neto,BA,PT,https://www.camara.leg.br/internet/deputado/bandep/204559.jpg
+507,160632,Zé Silva,MG,SOLIDARIEDADE,https://www.camara.leg.br/internet/deputado/bandep/160632.jpg
+508,220558,Zé Trovão,SC,PL,https://www.camara.leg.br/internet/deputado/bandep/220558.jpg
+509,204517,Zé Vitor,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/204517.jpg
+510,160592,Zeca Dirceu,PR,PT,https://www.camara.leg.br/internet/deputado/bandep/160592.jpg
+511,220592,Zezinho Barbary,AC,PP,https://www.camara.leg.br/internet/deputado/bandep/220592.jpg
+512,220552,Zucco,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/220552.jpg
