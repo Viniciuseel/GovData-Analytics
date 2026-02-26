@@ -1,4 +1,4 @@
-,id,nome,Estado,Partido,urlFoto
+,id,nome,Estado,Partido,foto
 0,204379,Acácio Favacho,AP,MDB,https://www.camara.leg.br/internet/deputado/bandep/204379.jpg
 1,220714,Adail Filho,AM,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220714.jpg
 2,221328,Adilson Barroso,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/221328.jpg
@@ -307,25 +307,25 @@
 305,222429,Luis Carlos Gomes,RJ,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/222429.jpg
 306,160510,Luis Tibé,MG,AVANTE,https://www.camara.leg.br/internet/deputado/bandep/160510.jpg
 307,204410,Luisa Canziani,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/204410.jpg
-308,141485,Luiz Carlos Busato,RS,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/141485.jpg
-309,73778,Luiz Carlos Hauly,PR,PODE,https://www.camara.leg.br/internet/deputado/bandep/73778.jpg
-310,204485,Luiz Carlos Motta,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/204485.jpg
-311,74041,Luiz Couto,PB,PT,https://www.camara.leg.br/internet/deputado/bandep/74041.jpg
-312,141487,Luiz Fernando Faria,MG,PSD,https://www.camara.leg.br/internet/deputado/bandep/141487.jpg
-313,220658,Luiz Gastão,CE,PSD,https://www.camara.leg.br/internet/deputado/bandep/220658.jpg
-314,204455,Luiz Lima,RJ,NOVO,https://www.camara.leg.br/internet/deputado/bandep/204455.jpg
-315,162332,Luiz Nishimori,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/162332.jpg
-316,204526,Luiz Philippe de Orleans e Bragança,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/204526.jpg
-317,74784,Luiza Erundina,SP,PSOL,https://www.camara.leg.br/internet/deputado/bandep/74784.jpg
-318,178866,Luizianne Lins,CE,PT,https://www.camara.leg.br/internet/deputado/bandep/178866.jpg
-319,220669,Lula da Fonte,PE,PP,https://www.camara.leg.br/internet/deputado/bandep/220669.jpg
-320,166402,Magda Mofatto,GO,PRD,https://www.camara.leg.br/internet/deputado/bandep/166402.jpg
-321,220648,Marangoni,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220648.jpg
-322,156190,Marcel van Hattem,RS,NOVO,https://www.camara.leg.br/internet/deputado/bandep/156190.jpg
-323,179000,Marcelo Álvaro Antônio,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/179000.jpg
-324,220599,Marcelo Crivella,RJ,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220599.jpg
-325,133810,Marcelo Moraes,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/133810.jpg
-326,160161,Marcelo Queiroz,RJ,PSDB,https://www.camara.leg.br/internet/deputado/bandep/160161.jpg
+308,204448,Luiz Antonio Corrêa,RJ,PP,https://www.camara.leg.br/internet/deputado/bandep/204448.jpg
+309,141485,Luiz Carlos Busato,RS,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/141485.jpg
+310,73778,Luiz Carlos Hauly,PR,PODE,https://www.camara.leg.br/internet/deputado/bandep/73778.jpg
+311,204485,Luiz Carlos Motta,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/204485.jpg
+312,74041,Luiz Couto,PB,PT,https://www.camara.leg.br/internet/deputado/bandep/74041.jpg
+313,141487,Luiz Fernando Faria,MG,PSD,https://www.camara.leg.br/internet/deputado/bandep/141487.jpg
+314,220658,Luiz Gastão,CE,PSD,https://www.camara.leg.br/internet/deputado/bandep/220658.jpg
+315,204455,Luiz Lima,RJ,NOVO,https://www.camara.leg.br/internet/deputado/bandep/204455.jpg
+316,162332,Luiz Nishimori,PR,PSD,https://www.camara.leg.br/internet/deputado/bandep/162332.jpg
+317,204526,Luiz Philippe de Orleans e Bragança,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/204526.jpg
+318,74784,Luiza Erundina,SP,PSOL,https://www.camara.leg.br/internet/deputado/bandep/74784.jpg
+319,178866,Luizianne Lins,CE,PT,https://www.camara.leg.br/internet/deputado/bandep/178866.jpg
+320,220669,Lula da Fonte,PE,PP,https://www.camara.leg.br/internet/deputado/bandep/220669.jpg
+321,166402,Magda Mofatto,GO,PRD,https://www.camara.leg.br/internet/deputado/bandep/166402.jpg
+322,220648,Marangoni,SP,UNIÃO,https://www.camara.leg.br/internet/deputado/bandep/220648.jpg
+323,156190,Marcel van Hattem,RS,NOVO,https://www.camara.leg.br/internet/deputado/bandep/156190.jpg
+324,179000,Marcelo Álvaro Antônio,MG,PL,https://www.camara.leg.br/internet/deputado/bandep/179000.jpg
+325,220599,Marcelo Crivella,RJ,REPUBLICANOS,https://www.camara.leg.br/internet/deputado/bandep/220599.jpg
+326,133810,Marcelo Moraes,RS,PL,https://www.camara.leg.br/internet/deputado/bandep/133810.jpg
 327,178983,Marcio Alvino,SP,PL,https://www.camara.leg.br/internet/deputado/bandep/178983.jpg
 328,179001,Márcio Biolchi,RS,MDB,https://www.camara.leg.br/internet/deputado/bandep/179001.jpg
 329,220687,Márcio Honaiser,MA,PDT,https://www.camara.leg.br/internet/deputado/bandep/220687.jpg
