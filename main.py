@@ -3,7 +3,6 @@ from etl.camara import tratar_deputados, extrair_deputados_brutos, salvar_dados_
 
 def iniciar_pipeline():
     dados_sujos = extrair_deputados_brutos()
-    print(dados_sujos)
     dados_limpos = tratar_deputados(dados_sujos)
 
     salvar_dados_banco(dados_limpos)
