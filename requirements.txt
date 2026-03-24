@@ -2,3 +2,5 @@ requests
 pandas
 python-dotenv
 streamlit
+sqlalchemy
+psycopg2-binary
