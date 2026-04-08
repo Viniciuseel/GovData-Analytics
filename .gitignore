@@ -6,3 +6,4 @@ __pycache__/
 deputados.csv
 camara.csv
 docker-compose.yml
+log_file.log
