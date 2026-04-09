@@ -27,6 +27,9 @@ def tratar_deputados(dados_brutos):
     df = pd.DataFrame(dados_brutos)
     logger.debug('DataFrame inicial montado na memoria')
 
+    df['Extraido em'] = pd.Timestamp.now(tz='America/Fortaleza')
+    logger.debug(f"Timestamp de extração aplicado")
+
     colunas_desejadas = ['id','nome','siglaUf','siglaPartido','urlFoto']
     df_limpo = df[ colunas_desejadas].copy()
     df_limpo = df_limpo.rename(columns = {
