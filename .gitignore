@@ -5,4 +5,4 @@ __pycache__/
 .env
 deputados.csv
 camara.csv
-docker-compose.yml
+**/*.log

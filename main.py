@@ -1,14 +1,24 @@
 from etl.camara import tratar_deputados, extrair_deputados_brutos, salvar_dados_banco
+from utils.log import configure_log
+import logging
 
+configure_log()
+logger=logging.getLogger(__name__)
 
 def iniciar_pipeline():
-    dados_sujos = extrair_deputados_brutos()
-    dados_limpos = tratar_deputados(dados_sujos)
 
-    salvar_dados_banco(dados_limpos)
+    logger.info("Iniciando pipeline de deputados")
 
-# Press the green button in the gutter to run the script.
+    try:
+        dados_sujos = extrair_deputados_brutos()
+        dados_limpos = tratar_deputados(dados_sujos)
+
+        salvar_dados_banco(dados_limpos)
+        logger.info("pipeline finalizado com sucesso")
+    except Exception as e:
+        logger.error(f'Erro no pipeline: {e}', exc_info=True  )
+
 if __name__ == '__main__':
     iniciar_pipeline()
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
 
